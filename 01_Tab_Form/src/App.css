@@ -1,0 +1,29 @@
+.tab-heading{
+  display: flex;
+}
+.heading{
+  padding: 10px;
+  border: 1px solid brown;
+  cursor: pointer;
+}
+.active-tab {
+  background-color: brown;
+  color: white;
+}
+.section-body{
+  padding: 10px;
+  border: 1px solid black;
+  margin-top: 2px;
+}
+.profile-form{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.profile-label-age{
+  margin-right: 12px;
+}
+.error{
+  color: red;
+  display: block;
+}
