@@ -1,0 +1,32 @@
+body{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.heading{
+  text-align: center;
+}
+.main{
+  max-width: 600px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+}
+.input-box{
+  font-size: 18px;
+  padding: 4px;
+}
+.result-container{
+  border: 1px solid black;
+  max-height: 400px;
+  overflow-y: scroll;
+}
+.result{
+  display: block;
+  padding: 4px;
+}
+.result:hover{
+  background-color: beige;
+  cursor: pointer;
+}
+.focused { 
+  background-color: beige;
+}
