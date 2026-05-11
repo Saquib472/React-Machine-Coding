@@ -1,0 +1,96 @@
+[
+    {
+        "id" : "1",
+        "name" : "public",
+        "isFolder" : true,
+        "children" : [
+            {
+                "id" : "1.1",
+                "name" : "favicon.svg",
+                "isFolder" : false
+            },
+            {
+                "id" : "1.2",
+                "name" : "icons.svg",
+                "isFolder" : false
+            }
+            
+        ]
+    },
+    {
+        "id" : "2",
+        "name" : "src",
+        "isFolder" : true,
+        "children" : [
+            {
+                "id" : "2.1",
+                "name" : "components",
+                "isFolder" : true,
+                "children" : [
+                    {
+                        "id" : "2.1.1",
+                        "name" : "test",
+                        "isFolder" : true,
+                        "children" : [
+                            {
+                                "id" : "2.1.1.1",
+                                "name" : "Test.jsx",
+                                "isFolder" : false
+                            }
+                        ]
+                    },
+                    {
+                        "id" : "2.1.2",
+                        "name" : "List.jsx",
+                        "isFolder" : false
+                    },
+                    {
+                        "id" : "2.1.3",
+                        "name" : "Main.jsx",
+                        "isFolder" : false
+                    }
+                ]
+            },
+            {
+                "id" : "2.2",
+                "name" : "App.css",
+                "isFolder" : false
+            },
+            {
+                "id" : "2.3",
+                "name" : "App.jsx",
+                "isFolder" : false
+            },
+            {
+                "id" : "2.4",
+                "name" : "data.json",
+                "isFolder" : false
+            },
+            {
+                "id" : "2.5",
+                "name" : "main.jsx",
+                "isFolder" : false
+            }
+        ]
+    },
+    {
+        "id" : "3",
+        "name" : ".gitignore",
+        "isFolder" : false
+    },
+    {
+        "id" : "4",
+        "name" : "index.html",
+        "isFolder" : false
+    },
+    {
+        "id" : "5",
+        "name" : "package.json",
+        "isFolder" : false
+    },
+    {
+        "id" : "6",
+        "name" : "Readme.md",
+        "isFolder" : false
+    }
+]

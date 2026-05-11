@@ -1,0 +1,22 @@
+.main{
+    padding: 20px;
+}
+
+.container {
+    padding-left: 10px;
+}
+
+.extend{
+    cursor: pointer;
+}
+
+.add-folder-image{
+    width: 17px;
+    cursor: pointer;
+}
+
+.node-list{
+    display: flex;
+    align-items: center;
+    gap: 3px;
+}
